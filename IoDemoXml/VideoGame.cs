@@ -19,7 +19,7 @@ namespace IoDemo
         private int _id;
         private string _name;
         private PlatformName _platform;
-        //private List<string> _character;
+        private List<string> _character;
 
 
         public int Id
@@ -40,12 +40,12 @@ namespace IoDemo
             set { _platform = value; }
         }
 
-        /*
+        
         public List<string> Characters
         {
             get { return _character; }
             set { _character = value; }
         }
-        */
+        
     }
 }

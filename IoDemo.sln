@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoDemoCsv", "IoDemo\IoDemoCsv.csproj", "{FA8FF2A0-BFB3-4036-A17F-DFDB4B30F02F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoDemoXml", "IoDemoXml\IoDemoXml.csproj", "{6AFB7DFE-C3B0-4E8D-9151-89A5F8E62D8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8FF2A0-BFB3-4036-A17F-DFDB4B30F02F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8FF2A0-BFB3-4036-A17F-DFDB4B30F02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8FF2A0-BFB3-4036-A17F-DFDB4B30F02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8FF2A0-BFB3-4036-A17F-DFDB4B30F02F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AFB7DFE-C3B0-4E8D-9151-89A5F8E62D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFB7DFE-C3B0-4E8D-9151-89A5F8E62D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFB7DFE-C3B0-4E8D-9151-89A5F8E62D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFB7DFE-C3B0-4E8D-9151-89A5F8E62D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F89424-E175-4668-B3D9-DBF5F2F6A5BC}
+	EndGlobalSection
+EndGlobal
